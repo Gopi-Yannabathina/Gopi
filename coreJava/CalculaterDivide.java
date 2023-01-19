@@ -1,6 +1,6 @@
 package com.coreJava;
 
-class Divide{
+class Divide2{
 	public void divide(double a, double b) {
 		System.out.println("Divide:"+(a/b));
 	}
